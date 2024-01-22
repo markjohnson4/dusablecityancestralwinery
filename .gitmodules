@@ -3,4 +3,4 @@
 	url = git@github.com:toughpixels/quick-pixels.git
 [submodule "themes/base"]
 	path = themes/base
-	url = https://github.com/toughpixels/base.git
+	url = git@github.com:toughpixels/base.git
